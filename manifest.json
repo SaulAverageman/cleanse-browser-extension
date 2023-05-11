@@ -16,7 +16,8 @@
                 "<all_urls>"
             ],
             "js": [
-                "script.js"
+                "script.js",
+                "myscript.js"
             ]
         }
     ]
