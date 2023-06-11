@@ -5,7 +5,7 @@ Block websites-101
 
 ## Installation
 - Clone this repo.
-- Add the websites you want to in script.js
+- Add the websites you want to block in script.js
 - Enable developer option in Browser Extensions Settings page.
 - Choose Load unpacked.
 - Locate the files in your local system and click ok.
